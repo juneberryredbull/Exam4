@@ -1,0 +1,7 @@
+Player 1 rolled a 5 on a 6 sided die.
+Player 2 rolled a 5 on a 6 sided die.
+Player 3 rolled a 2 on a 6 sided die.
+Player 4 rolled a 4 on a 6 sided die.
+Player 5 rolled a 2 on a 6 sided die.
+Player 6 rolled a 4 on a 6 sided die.
+1 and 2 tied.
